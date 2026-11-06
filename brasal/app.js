@@ -3,7 +3,7 @@ const menu=document.querySelector('.menu-toggle'),mobile=document.getElementById
 function closeMenu(){mobile.hidden=true;menu.setAttribute('aria-expanded','false');menu.setAttribute('aria-label','Abrir menu');}
 menu.addEventListener('click',()=>{const open=menu.getAttribute('aria-expanded')!=='true';mobile.hidden=!open;menu.setAttribute('aria-expanded',String(open));menu.setAttribute('aria-label',open?'Fechar menu':'Abrir menu');});
 mobile.querySelectorAll('a').forEach(a=>a.addEventListener('click',closeMenu));
-document.querySelectorAll('[data-wa]').forEach(link=>{link.href='https://wa.me/5534998786607?text='+encodeURIComponent('Olá, Bruno. '+link.dataset.wa);link.target='_blank';link.rel='noopener noreferrer';});
+document.querySelectorAll('[data-wa]').forEach(link=>{link.href='conversa.html?origem='+link.dataset.flow;link.removeAttribute('target');link.removeAttribute('rel');});
 let galleries={},currentProject='bianco',currentImage=0,opener=null;
 const tabs=[...document.querySelectorAll('[data-gallery-tab]')],dialog=document.getElementById('gallery-dialog'),stage=document.getElementById('gallery-image'),caption=document.getElementById('gallery-caption'),thumbs=document.getElementById('gallery-thumbnails');
 function selected(){return galleries[currentProject]?.images[currentImage];}
