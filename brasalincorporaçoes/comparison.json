@@ -1,0 +1,58 @@
+{
+  "checkedAt": "2026-11-06T16:33:30.629889-03:00",
+  "scope": [
+    "Parque Una",
+    "Belgrávia Park",
+    "Parque Sul Karaíba"
+  ],
+  "references": [
+    {
+      "location": "Parque Una · Coa",
+      "display": "R$ 14.321,82 a R$ 15.290,20/m²",
+      "note": "Dois exemplos de tabela nov/2026: 88,63 e 73,48 m². Portal consultado identifica o projeto como em obras; entrega atual a confirmar. Não equivalem automaticamente às ofertas prontas à vista.",
+      "url": "https://corretor.idealizacidades.com.br/empreendimentos/coa",
+      "sourceTitle": "Idealiza · tabela de unidades Coa, novembro/2026 (portal do corretor)",
+      "method": "Unidade 1601: R$ 1.269.343 ÷ 88,63 m² = R$ 14.321,82/m². Unidade 1105: R$ 1.123.524 ÷ 73,48 m² = R$ 15.290,20/m². Tabela consultada no portal autenticado, atualizada em 03/11/2026. Não é média do Parque Una.",
+      "samples": [
+        {
+          "unit": "1601",
+          "area": 88.63,
+          "price": 1269343,
+          "m2": 14321.82
+        },
+        {
+          "unit": "1105",
+          "area": 73.48,
+          "price": 1123524,
+          "m2": 15290.2
+        }
+      ]
+    },
+    {
+      "location": "Belgrávia Park · Ópera Haus",
+      "display": "R$ 12.352,93/m² · referência histórica",
+      "note": "Tabela set/2026: 277,91 m², 3º andar, finais 1 e 2. Produto muito maior e outro padrão; contexto histórico, não comparável direto nem preço atual confirmado.",
+      "url": "https://drive.google.com/file/d/1DzkLxfjyxnFidK8616UKUVUvqIQZeJV8/view",
+      "sourceTitle": "Bild · Tabela Mercado Setembro 26 — Ópera Haus",
+      "method": "R$ 3.433.001,44 ÷ 277,91 m² = R$ 12.352,93/m². Material localizado pelo Linktree oficial Bild Uberlândia. Sem atualização de preço posterior a setembro nesta consulta.",
+      "samples": [
+        {
+          "floor": 3,
+          "area": 277.91,
+          "price": 3433001.44,
+          "m2": 12352.93
+        }
+      ]
+    },
+    {
+      "location": "Parque Sul Karaíba · Naiad",
+      "display": "Preço por m² não confirmado",
+      "note": "Fonte consultada apresenta tipologias de 67 e 88 m², mas não um preço válido vinculado à unidade; não estimamos um valor para preencher a comparação.",
+      "url": "https://www.objetivauberlandia.com.br/imovel/naiad-parque-sul-karaiba-um-novo-padrao-de-morar-em-uberlandia/41245",
+      "sourceTitle": "Naiad Parque Sul Karaíba · anúncio da Objetiva, consulta em 06/11/2026",
+      "method": "Preço exibido como R$ 0,00 foi descartado como ausência de preço, não como oferta. Valores sem associação inequívoca à área/unidade também não entram no cálculo.",
+      "samples": []
+    }
+  ],
+  "conclusion": "As duas ofertas têm desconto aproximado de 10% sobre seus próprios preços de referência e pacote de itens informado pelo consultor. Seu R$/m² anunciado é inferior aos exemplos Coa consultados, mas não demonstra equivalência entre produtos, nem que sejam os menores preços de toda a região. Belgrávia é apenas contexto histórico; Karaíba permanece sem preço por m² verificável."
+}
