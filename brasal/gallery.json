@@ -1,0 +1,105 @@
+{
+  "bianco": {
+    "title": "Chess Bianco",
+    "description": "Arquitetura, ambientes e áreas comuns do empreendimento Chess. Perspectivas do book; as imagens não representam o estado das unidades Easy Home em oferta.",
+    "images": [
+      [
+        "chess-fachada-1.webp",
+        "Fachada do Chess · perspectiva ilustrativa",
+        "Book Chess, p. 8"
+      ],
+      [
+        "chess-living-1.webp",
+        "Living do apartamento tipo · perspectiva ilustrativa",
+        "Book Chess, p. 49"
+      ],
+      [
+        "chess-piscina-1.webp",
+        "Piscina e lazer do Chess · perspectiva ilustrativa",
+        "Book Chess, p. 26"
+      ],
+      [
+        "chess-academia-1.webp",
+        "Academia do Chess · perspectiva ilustrativa",
+        "Book Chess, p. 33"
+      ],
+      [
+        "chess-chegada-1.webp",
+        "Acesso ao Chess · perspectiva ilustrativa",
+        "Book Chess, p. 18"
+      ],
+      [
+        "chess-planta-77-1.webp",
+        "Planta de referência 77,66 m² · desenho ilustrativo",
+        "Book Chess, p. 52"
+      ]
+    ]
+  },
+  "nero": {
+    "title": "Chess Nero",
+    "description": "Outras possibilidades no empreendimento Chess, com imagens de arquitetura, ambientes e lazer compartilhados. Confira a planta e a configuração específicas da unidade de seu interesse.",
+    "images": [
+      [
+        "chess-torres-1.webp",
+        "Fachadas do Chess · perspectiva ilustrativa",
+        "Book Chess, p. 9"
+      ],
+      [
+        "chess-chegada-1.webp",
+        "Acesso ao Chess · perspectiva ilustrativa",
+        "Book Chess, p. 18"
+      ],
+      [
+        "chess-living-1.webp",
+        "Living de referência do Chess · perspectiva ilustrativa",
+        "Book Chess, p. 49"
+      ],
+      [
+        "chess-piscina-1.webp",
+        "Piscina do Chess · perspectiva ilustrativa",
+        "Book Chess, p. 26"
+      ],
+      [
+        "chess-academia-1.webp",
+        "Academia do Chess · perspectiva ilustrativa",
+        "Book Chess, p. 33"
+      ],
+      [
+        "chess-planta-78-1.webp",
+        "Planta de referência 78,43 m² · desenho ilustrativo",
+        "Book Chess, p. 53"
+      ]
+    ]
+  },
+  "iris": {
+    "title": "Íris Brasal",
+    "description": "Torre única e ambientes amplos, com imagens de fachada, convivência, lazer e plantas do próprio Íris. Perspectivas e plantas ilustrativas do material oficial.",
+    "images": [
+      [
+        "iris-fachada-1.webp",
+        "Fachada do Íris Brasal · perspectiva ilustrativa",
+        "Book Íris, p. 7"
+      ],
+      [
+        "iris-lobby-1.webp",
+        "Lobby do Íris · perspectiva ilustrativa",
+        "Book Íris, p. 17"
+      ],
+      [
+        "iris-living-1.webp",
+        "Living do Íris · perspectiva ilustrativa",
+        "Book Íris, p. 68"
+      ],
+      [
+        "iris-piscina-1.webp",
+        "Lazer do Íris · perspectiva ilustrativa",
+        "Book Íris, p. 34"
+      ],
+      [
+        "iris-planta-147-1.webp",
+        "Planta de referência do Íris · desenho ilustrativo",
+        "Book Íris, p. 74"
+      ]
+    ]
+  }
+}
